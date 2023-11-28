@@ -9,20 +9,21 @@
 </div>
 
 STELARs Open Source tool for Schema Matching and Entity Linking
+---
+A plethora of techniques has been proposed for Schema Matching, Entity Linking and Geospatial Interlinking. To facilitate their use by researchers and practitioners, in the context of Tasks 3.1 and 3.2, we developed pyJedAI, an open-source library that leverages Python’s data science ecosystem to build powerful end-to-end workflows for these tasks. We have publicly released the source code of pyJedAI at [https://github.com/AI-team-UoA/pyJedAI](https://github.com/AI-team-UoA/pyJedAI) under Apache License V2.0, which supports both academic and commercial applications. 
 
-A plethora of techniques has been proposed for Schema Matching, Entity Linking and Geospatial Interlinking. To facilitate their use by researchers and practitioners, in the context of Tasks 3.1 and 3.2, we developed pyJedAI, an open-source library that leverages Python’s data science ecosystem to build powerful end-to-end workflows for these tasks. We have publicly released the source code of pyJedAI at https://github.com/XXX under Apache License V2.0, which supports both academic and commercial applications. 
-
-All the source code has been uploaded to National and Kappodistrian University of Athens organization.
 All releases from [0.0.2](https://github.com/AI-team-UoA/pyJedAI/releases/tag/v0.0.2) to [0.1.3](https://github.com/AI-team-UoA/pyJedAI/releases/tag/0.1.3) have been developed in the context of STELAR, following Deliverable Software Requirements.
 
 __Website:__ A website has been created, providing documentation to STELARs partners and to the open-source community
+
+Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/intro.html)
+
 
 # Schema Matching
 
 
 # Entity Linking
 
-Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/intro.html)
 
 ### JedAIToolkit re-implemented in pyJedAI
 - [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai) 
