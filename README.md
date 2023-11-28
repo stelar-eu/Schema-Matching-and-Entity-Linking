@@ -14,18 +14,17 @@ A plethora of techniques has been proposed for Schema Matching, Entity Linking a
 
 All releases from [0.0.2](https://github.com/AI-team-UoA/pyJedAI/releases/tag/v0.0.2) to [0.1.3](https://github.com/AI-team-UoA/pyJedAI/releases/tag/0.1.3) have been developed in the context of STELAR, following Deliverable Software Requirements.
 
-__Website:__ A website has been created, providing documentation to STELARs partners and to the open-source community
+__Website:__ A website has been created, providing documentation to STELARs partners and to the open-source community.
 
 Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/intro.html)
 
-
 # Schema Matching
-
+- [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/schema_matching.py)
+- ADD [Tutorial]()
 
 # Entity Linking
 
-
-### JedAIToolkit re-implemented in pyJedAI
+### [JedAIToolkit](https://github.com/scify/JedAIToolkit) re-implemented in pyJedAI
 - [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai) 
 
 ### Join-based workflow
@@ -37,11 +36,10 @@ Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/
     - [Block Building](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/block_building.py)
     - [Block Cleaning](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/block_cleaning.py)
     - [Comparison Cleaning](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/comparison_cleaning.py)
-    - [Comparison Cleaning](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/comparison_cleaning.py)
     - [Entity Matching](https://github.com/AI-team-UoA/pyJedAI/blob/main/src/pyjedai/matching.py)
     - [Clustering](https://github.com/AI-team-UoA/pyJedAI/blob/main/src/pyjedai/clustering.py)
 
-- Tutorials showing blocking based workflows
+- Tutorials showing blocking based workflows:
     - [Clean Clean Entity Resolution](https://pyjedai.readthedocs.io/en/latest/tutorials/SimilarityJoins.html)
     - [Dirty Entity Resolution Tutorial](https://pyjedai.readthedocs.io/en/latest/tutorials/DirtyER.html)
     - [Clean Clean Entity Resolution for Naive Users](https://pyjedai.readthedocs.io/en/latest/tutorials/WorkFlow.html)
@@ -53,6 +51,6 @@ Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/
 
 ### Progressive ER
 - [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/prioritization.py)
-- [Tutorial]()
+- ADD [Tutorial]()
 
 # Geospatial Interlinking
