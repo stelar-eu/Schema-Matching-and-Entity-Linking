@@ -20,7 +20,7 @@ Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/
 
 # Schema Matching
 - [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/schema_matching.py)
-- ADD [Tutorial]()
+- [Tutorial](https://pyjedai.readthedocs.io/en/latest/tutorials/SchemaMatching.html)
 
 # Entity Linking
 
@@ -51,6 +51,6 @@ Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/
 
 ### Progressive ER
 - [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/prioritization.py)
-- ADD [Tutorial]()
+- [Tutorial](https://pyjedai.readthedocs.io/en/latest/tutorials/ProgressiveCCER.html)
 
 # Geospatial Interlinking
