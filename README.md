@@ -54,3 +54,5 @@ Link: [https://pyjedai.readthedocs.io](https://pyjedai.readthedocs.io/en/latest/
 - [Tutorial](https://pyjedai.readthedocs.io/en/latest/tutorials/ProgressiveCCER.html)
 
 # Geospatial Interlinking
+- [Source code](https://github.com/AI-team-UoA/pyJedAI/tree/main/src/pyjedai/spatial)
+- [Tutorial](https://pyjedai.readthedocs.io/en/latest/tutorials/Spatial.html)
